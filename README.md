@@ -3,7 +3,8 @@
 -->
 
 # Michael Walter
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="mpaw"><a class="LI-simple-link" href='https://www.linkedin.com/in/mpaw?trk=profile-badge'>Michael W.</a></div>
+
+<a href="https://www.linkedin.com/in/mpaw/">Github</a>
 
 ### Projects 
   - [MyDish](https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be)
