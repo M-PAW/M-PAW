@@ -1,7 +1,9 @@
+<!--
 ### Hi there 👋
+-->
 
 # Michael Walter
-[![Linkedin Badge](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)
+[![Linkedin Badge](https://platform.linkedin.com/badges/js/profile.js)
 
 ### Projects 
   - [MyDish](https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be)
