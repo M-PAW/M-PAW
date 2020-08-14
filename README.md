@@ -4,7 +4,7 @@
 
 # Michael Walter
 
-<a href="https://www.linkedin.com/in/mpaw/">Github</a>
+<a href="https://www.linkedin.com/in/mpaw/">Linkedin</a>
 
 ### Projects 
   - [MyDish](https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be)
