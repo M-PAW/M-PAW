@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Michael Walter
+[![Linkedin Badge](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)
+
+### Projects 
+  - [MyDish](https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be)
+  - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
+  - [International School Social Worker](https://github.com/M-PAW/Front-end/tree/master/school-social-worker)
+
+
+
+
 <!--
 **M-PAW/M-PAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
