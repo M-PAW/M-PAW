@@ -12,7 +12,7 @@
   - [International School Social Worker](https://github.com/M-PAW/Front-end/tree/master/school-social-worker)
 
 
-
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
 <!--
 **M-PAW/M-PAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
