@@ -3,9 +3,8 @@
 -->
 
 # Michael Walter
+- 🌱 I’m currently learning Enzyme(testing)
 
-
-   <div border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="70px""></a></div>
 
 
    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
