@@ -5,7 +5,7 @@
 # Michael Walter
 
 
-   <div border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="80px" margin-left="20em"></a></div>
+   <div border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="70px""></a></div>
 
 
    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
@@ -14,7 +14,7 @@
 
    <hr />
 ### Live Projects 
-  - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
+- [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
 
 
 
