@@ -8,7 +8,7 @@
    <div display="inline" border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="80px"></a></div>
 
 
-   <div display="inline">![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)</div>
+   ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
 
 
