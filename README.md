@@ -6,13 +6,14 @@
 
 <a href="https://www.linkedin.com/in/mpaw/">Linkedin</a>
 
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
+
+<hr />
+
 ### Projects 
   - [MyDish](https://github.com/M-PAW-LAMBDA-REVIEW/mydish-be)
   - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
   - [International School Social Worker](https://github.com/M-PAW/Front-end/tree/master/school-social-worker)
-
-
-![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
 <!--
 **M-PAW/M-PAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
