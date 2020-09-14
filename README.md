@@ -6,7 +6,7 @@
 
 <div>
   <!-- Row 1 -->
-  <div display="flex" justify-content="center">
+  <div width="100%" padding-left:"100px">
     <div border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="80px"></a></div>
   </div>
   <!-- Row 2 -->
