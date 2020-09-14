@@ -4,7 +4,7 @@
 
 # Michael Walter
 
-<a href="https://www.linkedin.com/in/mpaw/">Linkedin</a>
+<a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png></a>
 
 ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
