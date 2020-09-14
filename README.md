@@ -4,14 +4,28 @@
 
 # Michael Walter
 
-<div border-radius="90px" margin-left="20%"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="80px"></a></div>
-
-![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
-
-<hr />
-
+<div>
+  <!-- Row 1 -->
+  <div display="flex" justify-content="center">
+    <div border-radius="90px"><a href="https://www.linkedin.com/in/mpaw/"><img src="./linkedin.png" width="80px"></a></div>
+  </div>
+  <!-- Row 2 -->
+  <div width="100%">
+    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
+  </div>
+  <!-- Row 3 -->
+  <div>
+    <hr />
 ### Live Projects 
   - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
+  </div>
+</div>
+
+
+
+
+
+
 
 <!--
 **M-PAW/M-PAW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
