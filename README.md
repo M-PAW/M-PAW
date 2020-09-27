@@ -3,7 +3,7 @@
 -->
 
 # Michael Walter
-- 🌱 I’m currently learning Enzyme(testing)
+- 🌱 I’m currently learning Angular
 
 
 
