@@ -15,6 +15,7 @@
    <hr />
 ### Live Projects 
 - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
+- [VanillaJS Tic-Tac-Toe](https://flamboyant-lewin-78f5cc.netlify.app/)
 
 
 
