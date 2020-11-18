@@ -15,6 +15,7 @@
 ### Live Projects 
 - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
 - [Tic-Tac-Toe (VanillaJS)](https://flamboyant-lewin-78f5cc.netlify.app/)
+- [The Game of Simon (JS & jQuery)](https://stupefied-cray-2f5ede.netlify.app)
 
 
 <!--
