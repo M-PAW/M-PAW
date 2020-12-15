@@ -16,6 +16,7 @@
 - [Conway's Game of Life](https://friendly-wozniak-c97571.netlify.app/)
 - [Tic-Tac-Toe (VanillaJS)](https://flamboyant-lewin-78f5cc.netlify.app/)
 - [The Game of Simon (JS & jQuery)](https://the-game-of-simon.vercel.app)
+- [Daily Journal (EJS Views using NodeJS & Express)](https://journal-paw.herokuapp.com/)
 
 
 <!--
