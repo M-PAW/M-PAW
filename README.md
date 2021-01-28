@@ -3,8 +3,7 @@
 -->
 
 # Michael Walter
-- 🌱 I’m currently studying The Complete Junior to Senior Web Developer Roadmap (2021), which is available on Udemy.
-- Which can be found [Here](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/)
+- 🌱 I’m currently studying The Complete Junior to Senior Web Developer Roadmap (2021), which is available on Udemy [Course](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap/).
 
    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
