@@ -5,7 +5,7 @@
 -->
 
 # Michael Walter
-- 🌱 I’m currently studying Web Development and Cyber Security.
+- 🌱 I’m currently studying Typescript, Docker, and Kubernetes.
 
    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
