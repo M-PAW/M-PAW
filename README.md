@@ -5,7 +5,7 @@
 -->
 
 # Michael Walter
-- 🌱 I’m currently studying Typescript, Docker, and Kubernetes.
+- 🌱 I’m currently studying Advanced Python.
 
    ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
