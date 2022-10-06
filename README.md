@@ -7,9 +7,9 @@
 # Michael Walter
 - 🌱 I’m currently studying Advanced Python.
 
-   ![Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
+   <!--[Michael's github stats](https://github-readme-stats.vercel.app/api?username=M-PAW&show_icons=true&hide_border=true)
 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-PAW&hide_border=true" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-PAW&hide_border=true" /> -->
 
 
    <hr />
